@@ -1,4 +1,3 @@
-```markdown
 # TidaLuna Installer
 
 A modern, OLED-themed GUI installer for **[TidaLuna](https://github.com/Inrixia/TidaLuna)** (the TIDAL Client mod). 
@@ -48,4 +47,3 @@ If you want to compile this into a standalone `.exe` file so users don't need Py
 ## License
 
 MIT License
-```
